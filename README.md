@@ -115,6 +115,14 @@ Transactions exceeding risk thresholds are prioritized in the investigation queu
 
 ---
 
+## 🚀 Live Dashboard  
+
+🔗 [**Click here to explore the interactive Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNGQwYzE5MDgtYWMwNC00ODhiLTg5OGYtOWQ2N2I2ZDU0ZTVlIiwidCI6IjQ5MWIwYjZiLTA1NDAtNDJjZi1iZTJmLWE2NjZlNWFiMjIxOCJ9)
+
+*(Best viewed on desktop for full interactivity)*  
+
+---
+
 ## Key Insights
 
 Analysis of the transaction dataset reveals several notable fraud patterns.
